@@ -249,52 +249,6 @@ en tiempo real y un botón SOS como componentes principales de la solución.
 
 </div>
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Jaxsdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaxsdev&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Jaxsdev&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jaxsdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Jaxsdev/Jaxsdev/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
-
 # 📚 Currently Learning
 
 Estoy trabajando en fortalecer mis conocimientos en:
@@ -321,9 +275,6 @@ convertir ideas en productos tecnológicos funcionales.
 
 ---
 
-
-
-<br>
 
 <div align="center">
 
