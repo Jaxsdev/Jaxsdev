@@ -44,16 +44,6 @@ Soy estudiante de **Ingeniería de Sistemas** apasionado por crear productos, ex
 
 ---
 
-### 🚀 Currently building
-
-**Aimly** — Plataforma colaborativa impulsada por IA para reuniones, aprendizaje y creación en tiempo real.
-
-**myarqia** — Plataforma para diseñar y visualizar proyectos arquitectónicos mediante IA y tecnologías 3D.
-
-**Qhali** — Plataforma ciudadana para reportar y priorizar incidencias.
-
----
-
 ### 🔭 Currently exploring
 
 ```text
