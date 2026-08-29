@@ -256,10 +256,10 @@ en tiempo real y un botón SOS como componentes principales de la solución.
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats.vercel.app/api?username=Jaxsdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&langs_count=8&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaxsdev&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
@@ -269,7 +269,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Jaxsdev&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -279,7 +279,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Jaxsdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5"/>
 
 </div>
 
@@ -289,7 +289,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TU_USERNAME/TU_USERNAME/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Jaxsdev/Jaxsdev/output/github-contribution-grid-snake.svg"/>
 
 </div>
 
@@ -321,19 +321,7 @@ convertir ideas en productos tecnológicos funcionales.
 
 ---
 
-# 🤝 Let's Connect
 
-<div align="center">
-
-<a href="TU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:TU_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
 
 <br>
 
