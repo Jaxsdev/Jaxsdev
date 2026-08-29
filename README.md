@@ -1,133 +1,109 @@
-<div align="center">
+# Hey, I'm Jack Luis Chávez 👋
 
-# 👋 ¡Hola, soy Jaxs!
+**Software Engineer · AI Builder · Product Engineer**
 
-### 🎓 Systems Engineering Student · 💻 Full Stack Developer · 🤖 AI Enthusiast
-
-<p>
-  Me interesa transformar ideas y problemas reales en productos de software,
-  combinando desarrollo Full Stack, Inteligencia Artificial y Software Architecture.
-</p>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Jaxsdev&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
+Construyendo productos digitales, soluciones con inteligencia artificial y experiencias tecnológicas desde 🇵🇪 Perú.
 
 ---
 
-# 👨‍💻 About Me
+### 👨‍💻 Sobre mí
 
-Soy estudiante de **Ingeniería de Sistemas** y desarrollador enfocado en
-la creación de aplicaciones web, sistemas empresariales y soluciones
-tecnológicas impulsadas por Inteligencia Artificial.
+Soy estudiante de **Ingeniería de Sistemas y desarrollador de software**, enfocado en convertir ideas en productos digitales reales.
 
-Me gusta participar en todo el proceso de construcción de un producto:
-desde entender el problema y diseñar la solución, hasta desarrollar el
-Frontend, Backend, base de datos e integración de servicios.
+Me interesa explorar cómo la **inteligencia artificial, el software y el diseño de productos** pueden combinarse para resolver problemas reales.
 
-Actualmente estoy profundizando en **Software Architecture, Real-Time
-Systems, AI Applications, Cloud & DevOps y System Design**.
-
----
-
-# ⚡ Tech Stack
-
-<div align="center">
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,fastapi,java" />
-
-### Database & Backend Services
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase,firebase" />
-
-### Tools & DevOps
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,linux" />
-
-### Other Technologies
-
-<img src="https://skillicons.dev/icons?i=cpp,arduino" />
-
-</div>
+* 🤖 Construyendo soluciones con **AI y AI Agents**
+* 💻 Desarrollo de **Web Applications** y productos digitales
+* 🏗️ Interesado en **Software Architecture** y **System Design**
+* 🚀 Transformando ideas en **MVPs, prototipos y productos funcionales**
+* ⚡ Explorando **Real-time Systems** y aplicaciones colaborativas
+* 🏆 Participando en **Hackathons** y proyectos tecnológicos
+* 🧠 Aprendiendo constantemente sobre nuevas tecnologías y formas de construir mejores productos
 
 ---
 
-# 🤖 Artificial Intelligence
+### ⚡ En qué trabajo
 
-Uno de mis principales intereses es integrar **AI dentro de aplicaciones
-reales**, buscando que la Inteligencia Artificial sea parte de la
-experiencia del usuario y no solamente una funcionalidad aislada.
+#### Frontend & Web
 
-### Áreas de interés
+**Next.js · React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS**
 
-- 🧠 LLM Applications
-- 🤖 AI Agents
-- 💬 AI Assistants
-- 🏷️ Text Classification
-- 📊 Intelligent Prioritization
-- 🔎 Information Processing
-- ⚡ AI + Real-Time Applications
-- 📚 AI for Education
+Desarrollo interfaces modernas, aplicaciones web y experiencias interactivas enfocadas en usabilidad y rendimiento.
 
----
+#### Backend & Data
 
-# 🧠 Areas of Interest
+**FastAPI · Node.js · PostgreSQL · Supabase · REST APIs**
 
-<div align="center">
+Construcción de APIs, sistemas backend, bases de datos y arquitecturas orientadas a productos escalables.
 
-| 💻 Software Development | 🤖 Artificial Intelligence |
-|:---:|:---:|
-| Full Stack Development | LLM Applications |
-| REST APIs | AI Agents |
-| Web Applications | AI Assistants |
-| Backend Development | Intelligent Systems |
+#### AI & Intelligent Systems
 
-| 🏗️ Software Engineering | ⚡ Emerging Technologies |
-|:---:|:---:|
-| Software Architecture | Real-Time Systems |
-| System Design | Geospatial Systems |
-| Enterprise Systems | IoT |
-| Database Design | Cloud & DevOps |
+**LLM APIs · AI Agents · RAG · Computer Vision · AI-powered Workflows**
 
-</div>
+Explorando diferentes formas de integrar inteligencia artificial dentro de aplicaciones para crear productos más inteligentes y automatizados.
 
-# 📚 Currently Learning
+#### Engineering
 
-Estoy trabajando en fortalecer mis conocimientos en:
+**Git · GitHub · GitHub Actions · Docker · Software Architecture · API Design**
 
-- 🏗️ Software Architecture
-- ⚡ Real-Time Systems
-- 🤖 AI Agents & LLM Applications
-- 🐳 Docker & Containerization
-- ☁️ Cloud Architecture
-- 🔐 Application Security
-- 📈 Scalability & System Design
-- 🚀 DevOps
+Me interesa especialmente entender cómo estructurar proyectos para que puedan crecer sin convertirse en un caos.
+
+#### Product & Design
+
+**Figma · UI/UX · Product Development · Prototyping**
+
+No solo me interesa programar una idea, sino también entender el problema, diseñar la solución y convertirla en un producto.
 
 ---
 
-# 🎯 Goals
+### 🚀 Actualmente construyendo
 
-Mi objetivo es evolucionar desde el desarrollo de aplicaciones hacia
-la construcción de **sistemas completos, escalables e inteligentes**.
+**Aimly**
 
-Quiero seguir desarrollando experiencia en proyectos reales, participar
-en hackathons, mejorar mis habilidades de arquitectura y aprender a
-convertir ideas en productos tecnológicos funcionales.
+> Plataforma colaborativa impulsada por IA para reuniones, aprendizaje y creación de contenido en tiempo real.
+
+**myarqia**
+
+> Plataforma inteligente para diseñar, visualizar y gestionar proyectos arquitectónicos mediante IA y tecnologías 3D.
+
+**Qhali**
+
+> Plataforma ciudadana para reportar, validar y priorizar incidencias mediante colaboración e inteligencia artificial.
+
+**Real Estate CRM**
+
+> Sistema para gestionar clientes, propiedades, procesos comerciales y operaciones de una inmobiliaria desde una plataforma centralizada.
 
 ---
 
+### 🧠 Actualmente explorando
 
-<div align="center">
+```text
+Artificial Intelligence  █████████████████░░░
+AI Agents                ████████████████░░░░
+Product Engineering      ███████████████░░░░░
+Software Architecture    ██████████████░░░░░░
+Real-time Systems        █████████████░░░░░░░
+3D & Spatial Technology  ███████████░░░░░░░░░
+Open Source              ██████████░░░░░░░░░░
+```
 
-### ⚡ Construyendo ideas, aprendiendo tecnologías y creando soluciones.
+---
 
-</div>
+### 🎯 Cómo me gusta construir
+
+No quiero limitarme a **escribir código**.
+
+Me interesa entender el problema, diseñar la solución y construir el producto completo.
+
+Desde la idea inicial y el **System Design**, hasta el frontend, backend, integración de AI y deployment.
+
+**Idea → Architecture → Development → AI → Product**
+
+---
+
+### 🌎 Construyamos algo
+
+Me interesan especialmente la **AI, Software Engineering, startups, hackathons, productos digitales y nuevas tecnologías**.
+
+Siempre estoy explorando nuevas ideas y construyendo proyectos para aprender, experimentar y crear soluciones que puedan tener un impacto real.
