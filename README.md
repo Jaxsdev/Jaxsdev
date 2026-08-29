@@ -1,109 +1,71 @@
 # Hey, I'm Jack Luis Chávez 👋
 
-**Software Engineer · AI Builder · Product Engineer**
+**Software Engineer · AI Builder · Full-Stack Developer**
 
-Construyendo productos digitales, soluciones con inteligencia artificial y experiencias tecnológicas desde 🇵🇪 Perú.
-
----
-
-### 👨‍💻 Sobre mí
-
-Soy estudiante de **Ingeniería de Sistemas y desarrollador de software**, enfocado en convertir ideas en productos digitales reales.
-
-Me interesa explorar cómo la **inteligencia artificial, el software y el diseño de productos** pueden combinarse para resolver problemas reales.
-
-* 🤖 Construyendo soluciones con **AI y AI Agents**
-* 💻 Desarrollo de **Web Applications** y productos digitales
-* 🏗️ Interesado en **Software Architecture** y **System Design**
-* 🚀 Transformando ideas en **MVPs, prototipos y productos funcionales**
-* ⚡ Explorando **Real-time Systems** y aplicaciones colaborativas
-* 🏆 Participando en **Hackathons** y proyectos tecnológicos
-* 🧠 Aprendiendo constantemente sobre nuevas tecnologías y formas de construir mejores productos
+Construyendo productos digitales y experiencias impulsadas por IA desde 🇵🇪 Perú.
 
 ---
 
-### ⚡ En qué trabajo
+### 👨‍💻 About me
 
-#### Frontend & Web
+Soy estudiante de **Ingeniería de Sistemas** apasionado por crear productos, experimentar con nuevas tecnologías y convertir ideas en software.
 
-**Next.js · React · TypeScript · JavaScript · Tailwind CSS · HTML · CSS**
-
-Desarrollo interfaces modernas, aplicaciones web y experiencias interactivas enfocadas en usabilidad y rendimiento.
-
-#### Backend & Data
-
-**FastAPI · Node.js · PostgreSQL · Supabase · REST APIs**
-
-Construcción de APIs, sistemas backend, bases de datos y arquitecturas orientadas a productos escalables.
-
-#### AI & Intelligent Systems
-
-**LLM APIs · AI Agents · RAG · Computer Vision · AI-powered Workflows**
-
-Explorando diferentes formas de integrar inteligencia artificial dentro de aplicaciones para crear productos más inteligentes y automatizados.
-
-#### Engineering
-
-**Git · GitHub · GitHub Actions · Docker · Software Architecture · API Design**
-
-Me interesa especialmente entender cómo estructurar proyectos para que puedan crecer sin convertirse en un caos.
-
-#### Product & Design
-
-**Figma · UI/UX · Product Development · Prototyping**
-
-No solo me interesa programar una idea, sino también entender el problema, diseñar la solución y convertirla en un producto.
+* 🤖 Explorando **AI & AI Agents**
+* 💻 Construyendo **Web Applications & Digital Products**
+* 🏗️ Interesado en **Software Architecture**
+* 🚀 Hackathons, startups & proyectos propios
 
 ---
 
-### 🚀 Actualmente construyendo
+### ⚡ Tech Stack
 
-**Aimly**
+#### Frontend
 
-> Plataforma colaborativa impulsada por IA para reuniones, aprendizaje y creación de contenido en tiempo real.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-**myarqia**
+#### Backend & Database
 
-> Plataforma inteligente para diseñar, visualizar y gestionar proyectos arquitectónicos mediante IA y tecnologías 3D.
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
 
-**Qhali**
+#### AI & Tools
 
-> Plataforma ciudadana para reportar, validar y priorizar incidencias mediante colaboración e inteligencia artificial.
-
-**Real Estate CRM**
-
-> Sistema para gestionar clientes, propiedades, procesos comerciales y operaciones de una inmobiliaria desde una plataforma centralizada.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
 ---
 
-### 🧠 Actualmente explorando
+### 🚀 Currently building
+
+**Aimly** — Plataforma colaborativa impulsada por IA para reuniones, aprendizaje y creación en tiempo real.
+
+**myarqia** — Plataforma para diseñar y visualizar proyectos arquitectónicos mediante IA y tecnologías 3D.
+
+**Qhali** — Plataforma ciudadana para reportar y priorizar incidencias.
+
+---
+
+### 🔭 Currently exploring
 
 ```text
 Artificial Intelligence  █████████████████░░░
-AI Agents                ████████████████░░░░
-Product Engineering      ███████████████░░░░░
+AI Agents                ███████████████░░░░░
 Software Architecture    ██████████████░░░░░░
-Real-time Systems        █████████████░░░░░░░
-3D & Spatial Technology  ███████████░░░░░░░░░
-Open Source              ██████████░░░░░░░░░░
+Real-time Systems        ████████████░░░░░░░░
+3D & Spatial Tech        ██████████░░░░░░░░░░
 ```
 
 ---
 
-### 🎯 Cómo me gusta construir
+### 🌎 Let's build something
 
-No quiero limitarme a **escribir código**.
-
-Me interesa entender el problema, diseñar la solución y construir el producto completo.
-
-Desde la idea inicial y el **System Design**, hasta el frontend, backend, integración de AI y deployment.
-
-**Idea → Architecture → Development → AI → Product**
-
----
-
-### 🌎 Construyamos algo
-
-Me interesan especialmente la **AI, Software Engineering, startups, hackathons, productos digitales y nuevas tecnologías**.
-
-Siempre estoy explorando nuevas ideas y construyendo proyectos para aprender, experimentar y crear soluciones que puedan tener un impacto real.
+Siempre explorando nuevas ideas, tecnologías y formas de convertirlas en productos reales.
