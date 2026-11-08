@@ -1,70 +1,167 @@
-# Hey, I'm Jack Luis Chávez 👋
+### ◇ Tech Stack
 
-**Software Engineer · AI Builder · Full-Stack Developer**
+<p align="center">
 
-Construyendo productos digitales y experiencias impulsadas por IA desde 🇵🇪 Perú.
+  <img
+    src="https://skillicons.dev/icons?i=linux,bash,git,gitlab,github,docker,kubernetes,terraform,aws,go,python,vscode,githubactions,rabbitmq,grafana&theme=dark"
+    width="470"
+  />
 
----
+</p>
 
-### 👨‍💻 About me
+### ◈ Learning Achievements
 
-Soy estudiante de **Ingeniería de Sistemas** apasionado por crear productos, experimentar con nuevas tecnologías y convertir ideas en software.
+<p align="center">
+<a href="https://www.boot.dev/u/swatsecone"><img src="./assets/learning/bootdev.svg" width="24%" alt="Boot.dev — Backend Path — In Progress" /></a><a href="https://labex.io/u/antonis-loukis-55763425"><img src="./assets/learning/labex.svg" width="24%" alt="LabEx — Linux Skills — In Progress" /></a><a href="https://kodekloud.com/"><img src="./assets/learning/kodekloud.svg" width="24%" alt="KodeKloud — DevOps / Cloud — Planned" /></a><a href="https://tryhackme.com/"><img src="./assets/learning/tryhackme.svg" width="24%" alt="TryHackMe — Security — Planned" /></a>
+<br>
 
-* 🤖 Explorando **AI & AI Agents**
-* 💻 Construyendo **Web Applications & Digital Products**
-* 🏗️ Interesado en **Software Architecture**
-* 🚀 Hackathons, startups & proyectos propios
+### ▣ Featured Projects
+#### Applications
 
----
+<table width="100%">
 
-### ⚡ Tech Stack
+<tbody>
+<tr>
 
-#### Languages
+<td width="50%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+<h3>
+  <a href="https://github.com/antonisloukis/asteroids">
+    <img
+      src="./asteroids-icon.png"
+      width="30"
+      height="30"
+      align="middle"
+      alt="Asteroids icon"
+    />
+  </a>
+  &nbsp;<a href="https://github.com/antonisloukis/asteroids">Asteroids</a>
+</h3>
 
-#### Frontend & Web
+Python/Pygame implementation of the classic Asteroids arcade game.
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-30363D?style=flat-square" alt="Python">
+  <img src="https://img.shields.io/badge/Pygame-30363D?style=flat-square" alt="Pygame">
+  
+  <a href="https://github.com/antonisloukis/asteroids">
+    <img
+      align="right"
+      height="18"
+      src="https://img.shields.io/github/stars/antonisloukis/asteroids?style=flat&label=%E2%98%85&labelColor=161b22&color=1f6feb"
+      alt="Asteroids stars"
+    />
+  </a>
+</p>
 
-#### Backend & Database
+</td>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge\&logo=supabase\&logoColor=3ECF8E)
+<td width="50%" valign="top">
 
-#### Tools & Technologies
+  <a href="https://github.com/marketplace/actions/answertrace">
+    <img
+      align="right"
+      src="./marketplace.png"
+      width="65"
+      alt="GitHub Marketplace badge"
+    />
+  </a>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+  <h3>
+    <a href="https://github.com/antonisloukis/answertrace">
+      <img
+        src="./answertrace.png"
+        width="30"
+        height="30"
+        align="middle"
+        alt="AnswerTrace icon"
+      />
+    </a>
+    &nbsp;<a href="https://github.com/antonisloukis/answertrace">AnswerTrace</a>
+  </h3>
+
+  GitHub Discussions contribution analytics and customizable SVG widgets for developer READMEs.
+
+  <p>
+  <img src="https://img.shields.io/badge/Python-30363D?style=flat-square" alt="Python">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-30363D?style=flat-square" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/GraphQL-30363D?style=flat-square" alt="GraphQL">
+
+  <a href="https://github.com/antonisloukis/answertrace">
+    <img
+      align="right"
+      height="18"
+      src="https://img.shields.io/github/stars/antonisloukis/answertrace?style=flat&label=%E2%98%85&labelColor=161b22&color=1f6feb"
+      alt="AnswerTrace stars"
+    />
+  </a>
+</p>
+
+</td>
+
+</tr>
+</tbody>
+
+<tbody>
+<tr>
+
+<td colspan="2" width="100%" valign="top">
+
+<h3>
+  <a href="https://github.com/antonisloukis/runbookproof">
+    <img
+      src="./runbookproof-icon.png"
+      width="30"
+      height="30"
+      align="middle"
+      alt="RunbookProof icon"
+    />
+  </a>
+  &nbsp;<a href="https://github.com/antonisloukis/runbookproof">RunbookProof</a>
+</h3>
+
+Continuously verify commands in documentation, runbooks, and AI-generated instructions.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-30363D?style=flat-square" alt="Python">
+  <img src="https://img.shields.io/badge/CLI-30363D?style=flat-square" alt="CLI">
+  <img src="https://img.shields.io/badge/Static_Analysis-30363D?style=flat-square" alt="Static Analysis">
+  <img src="https://img.shields.io/badge/Sarif-30363D?style=flat-square" alt="Sarif">
+  <img src="https://img.shields.io/badge/DevSecOps-30363D?style=flat-square" alt="DevSecOps">
+  
+  <a href="https://github.com/antonisloukis/runbookproof">
+    <img
+      align="right"
+      height="18"
+      src="https://img.shields.io/github/stars/antonisloukis/runbookproof?style=flat&label=%E2%98%85&labelColor=161b22&color=1f6feb"
+      alt="RunbookProof stars"
+    />
+  </a>
+</p>
+
+</td>
+
+</tr>
+</tbody>
+
+</table>
+
+### ◫ Development Metrics
+<p align="center">
+  <img
+    src="./assets/discussion-impact.svg?v=2"
+    alt="GitHub Discussions Impact"
+    width="720"
+  />
+  <a href="https://github.com/antonisloukis/minimal-github-stats">
+    <img
+      src="https://raw.githubusercontent.com/antonisloukis/minimal-github-stats/main/assets/github-stats.svg"
+      width="100%"
+      alt="Automatically updated GitHub statistics"
+    />
+  </a>
+</p>
+
+<img src="./assets/wave-divider.svg" width="100%" alt="Animated wave divider" />
 
 
-
-### 🔭 Currently exploring
-
-```text
-Artificial Intelligence  █████████████████░░░
-AI Agents                ███████████████░░░░░
-Software Architecture    ██████████████░░░░░░
-Real-time Systems        ████████████░░░░░░░░
-3D & Spatial Tech        ██████████░░░░░░░░░░
-```
-
----
-
-### 🌎 Let's build something
-
-Siempre explorando nuevas ideas, tecnologías y formas de convertirlas en productos reales.
