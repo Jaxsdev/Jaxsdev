@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:07111f,35:123a68,72:2563eb,100:7c3aed&text=Jaxsdev&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Tecnolog%C3%ADa%20con%20prop%C3%B3sito%20%7C%20IA%20%7C%20Productos%20digitales&descSize=17&descAlignY=61&animation=fadeIn" alt="Jaxsdev — tecnología con propósito" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:07111f,35:123a68,72:2563eb,100:7c3aed&text=Jaxsdev&fontSize=72&fontColor=ffffff&fontAlignY=40&desc=IA%20%7C%20Software%20%7C%20Tecnolog%C3%ADa%20con%20impacto&descSize=18&descAlignY=63&animation=twinkling" alt="Jaxsdev — tecnología con propósito" />
   <br />
   <a href="https://github.com/Jaxsdev"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=850&lines=Dise%C3%B1o+soluciones+tecnol%C3%B3gicas+con+IA;Exploro+la+intersecci%C3%B3n+entre+software+y+sectores+reales;Construyo%2C+aprendo+y+colaboro+en+equipo" alt="Presentación animada" /></a>
   <br /><br />
@@ -22,7 +22,7 @@ Me interesa todo el ciclo: entender un problema, diseñar una experiencia útil,
 |:--|:--|:--|
 | 🤖 **IA para MYPES** | Soluciones tecnológicas accesibles que ayuden a pequeñas empresas a trabajar, atender y decidir mejor. | IA aplicada · automatización · herramientas útiles |
 | 🏛️ **Civitech · Qhali** | Plataformas cívicas y tecnología con impacto en las comunidades y en la vida cotidiana. | Participación · servicios digitales · impacto social |
-| 🏗️ **Construcción · MyArqIA** | Llevar tecnologías actuales al mundo de la construcción y crear mejores experiencias para sus equipos y proyectos. | Construcción digital · colaboración · innovación sectorial |
+| 🏗️ **Construcción · Aymly** | Llevar tecnologías actuales al mundo de la construcción y crear mejores experiencias para sus equipos y proyectos. | Construcción digital · colaboración · innovación sectorial |
 | 💳 **Fintech** | Colaborar con equipos grandes para diseñar y desarrollar software financiero robusto. | Ingeniería de software · trabajo en equipo · productos financieros |
 | 🎓 **Edtech · Aimly** | Una guía o mentor para quienes quieren empezar a crear proyectos con agentes de voz, LLMs y herramientas colaborativas. | Aprendizaje práctico · proyectos · IA y agentes |
 
@@ -72,19 +72,22 @@ Me interesa todo el ciclo: entender un problema, diseñar una experiencia útil,
 </div>
 ## 📊 Mi actividad en GitHub
 
-<div align="center">
-  <img width="49%" src="https://ghstats.dev/api/card?username=Jaxsdev&theme=tokyonight&bg=0b1220&text=c9d1d9&title_color=67e8f9&icon_color=a78bfa&hide_border=true" alt="Estadísticas de GitHub" />
-  <img width="49%" src="https://ghstats.dev/api/langs?username=Jaxsdev&theme=tokyonight&layout=donut&hide_border=true&max_langs=8" alt="Lenguajes más usados" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="50%"><strong>Estadísticas</strong><br /><img width="100%" src="https://ghstats.dev/api/card?username=Jaxsdev&theme=tokyonight&bg=0b1220&text=c9d1d9&title_color=67e8f9&icon_color=a78bfa&hide_border=true" alt="Estadísticas de GitHub" /></td>
+    <td align="center" width="50%"><strong>Lenguajes más usados</strong><br /><img width="100%" src="https://ghstats.dev/api/langs?username=Jaxsdev&theme=tokyonight&layout=donut&hide_border=true&max_langs=8" alt="Lenguajes más usados" /></td>
+  </tr>
+</table>
 
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=Jaxsdev&theme=tokyonight&hide_border=true&background=0B1220&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9" alt="Racha de contribuciones" />
 </div>
 
-<div align="center">
-  <img width="96%" src="https://ghstats.dev/api/sparkline?username=Jaxsdev&days=90&width=800&height=180&line_color=67e8f9&fill_color=0b1220&title=Actividad%20de%20contribuciones%20%28%C3%BAltimos%2090%20d%C3%ADas%29&hide_border=true" alt="Curva de actividad de GitHub de los últimos 90 días" />
-</div>
+### 📈 Historial anual de contribuciones
 
+<div align="center">
+  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaxsdev&theme=tokyonight&animation=draw&name=Jaxsdev" alt="Historial anual de contribuciones de Jaxsdev" />
+</div>
 ## 🌱 Ahora mismo
 
 - 💡 Ideando productos que acercan la IA a necesidades de personas, equipos y negocios.
@@ -106,6 +109,7 @@ Me interesa todo el ciclo: entender un problema, diseñar una experiencia útil,
   <br /><br />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:07111f,35:123a68,72:2563eb,100:7c3aed" alt="" />
 </div>
+
 
 
 
