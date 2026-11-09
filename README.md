@@ -73,8 +73,8 @@ Me interesa todo el ciclo: entender un problema, diseñar una experiencia útil,
 ## 📊 Mi actividad en GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jaxsdev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0b1220&title_color=67e8f9&icon_color=a78bfa" alt="Estadísticas de GitHub" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaxsdev&layout=donut&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0b1220&title_color=67e8f9" alt="Lenguajes más usados" />
+  <img width="49%" src="https://ghstats.dev/api/card?username=Jaxsdev&theme=tokyonight&bg=0b1220&text=c9d1d9&title_color=67e8f9&icon_color=a78bfa&hide_border=true" alt="Estadísticas de GitHub" />
+  <img width="49%" src="https://ghstats.dev/api/langs?username=Jaxsdev&theme=tokyonight&layout=donut&hide_border=true&max_langs=8" alt="Lenguajes más usados" />
 </div>
 
 <div align="center">
@@ -82,7 +82,7 @@ Me interesa todo el ciclo: entender un problema, diseñar una experiencia útil,
 </div>
 
 <div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jaxsdev&bg_color=0b1220&color=c9d1d9&line=67e8f9&point=a78bfa&area=true&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfico de actividad de GitHub" />
+  <img width="96%" src="https://ghstats.dev/api/sparkline?username=Jaxsdev&days=90&width=800&height=180&line_color=67e8f9&fill_color=0b1220&title=Actividad%20de%20contribuciones%20%28%C3%BAltimos%2090%20d%C3%ADas%29&hide_border=true" alt="Curva de actividad de GitHub de los últimos 90 días" />
 </div>
 
 ## 🌱 Ahora mismo
