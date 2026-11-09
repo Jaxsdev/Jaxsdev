@@ -22,7 +22,7 @@ Me interesa todo el ciclo: entender un problema, diseñar una experiencia útil,
 |:--|:--|:--|
 | 🤖 **IA para MYPES** | Soluciones tecnológicas accesibles que ayuden a pequeñas empresas a trabajar, atender y decidir mejor. | IA aplicada · automatización · herramientas útiles |
 | 🏛️ **Civitech · Qhali** | Plataformas cívicas y tecnología con impacto en las comunidades y en la vida cotidiana. | Participación · servicios digitales · impacto social |
-| 🏗️ **Construcción · Aymly** | Llevar tecnologías actuales al mundo de la construcción y crear mejores experiencias para sus equipos y proyectos. | Construcción digital · colaboración · innovación sectorial |
+| 🏗️ **Construcción · MyArqIA** | Llevar tecnologías actuales al mundo de la construcción y crear mejores experiencias para sus equipos y proyectos. | Construcción digital · colaboración · innovación sectorial |
 | 💳 **Fintech** | Colaborar con equipos grandes para diseñar y desarrollar software financiero robusto. | Ingeniería de software · trabajo en equipo · productos financieros |
 | 🎓 **Edtech · Aimly** | Una guía o mentor para quienes quieren empezar a crear proyectos con agentes de voz, LLMs y herramientas colaborativas. | Aprendizaje práctico · proyectos · IA y agentes |
 
