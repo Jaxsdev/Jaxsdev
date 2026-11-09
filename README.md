@@ -22,54 +22,13 @@ Me interesa todo el ciclo: entender un problema, diseñar una experiencia útil,
 |:--|:--|:--|
 | 🤖 **IA para MYPES** | Soluciones tecnológicas accesibles que ayuden a pequeñas empresas a trabajar, atender y decidir mejor. | IA aplicada · automatización · herramientas útiles |
 | 🏛️ **Civitech · Qhali** | Plataformas cívicas y tecnología con impacto en las comunidades y en la vida cotidiana. | Participación · servicios digitales · impacto social |
-| 🏗️ **Construcción · Aymly** | Llevar tecnologías actuales al mundo de la construcción y crear mejores experiencias para sus equipos y proyectos. | Construcción digital · colaboración · innovación sectorial |
+| 🏗️ **Construcción · MyArqIA** | Llevar tecnologías actuales al mundo de la construcción y crear mejores experiencias para sus equipos y proyectos. | Construcción digital · colaboración · innovación sectorial |
 | 💳 **Fintech** | Colaborar con equipos grandes para diseñar y desarrollar software financiero robusto. | Ingeniería de software · trabajo en equipo · productos financieros |
 | 🎓 **Edtech · Aimly** | Una guía o mentor para quienes quieren empezar a crear proyectos con agentes de voz, LLMs y herramientas colaborativas. | Aprendizaje práctico · proyectos · IA y agentes |
 
 > **Proyectos e iniciativas:** Qhali, Aymly y Aimly reúnen varios de estos intereses. Los enlaces se pueden añadir cuando sus páginas públicas estén disponibles.
 
-## 🚀 En qué me gusta trabajar
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 Inteligencia artificial aplicada</h3>
-      <p>LLMs, agentes de voz y experiencias que convierten capacidades de IA en herramientas comprensibles, útiles y cercanas.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧩 Productos y plataformas</h3>
-      <p>Productos digitales pensados alrededor de las personas, sus problemas y los contextos específicos de cada industria.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤝 Colaboración a escala</h3>
-      <p>Construir software junto a equipos multidisciplinarios, compartir conocimiento y avanzar hacia objetivos comunes.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌍 Tecnología con impacto</h3>
-      <p>Explorar cómo el software puede mejorar oportunidades en negocios, educación, servicios cívicos y construcción.</p>
-    </td>
-  </tr>
-</table>
-
-## 🧰 Lenguajes, tecnologías y herramientas
-
-<div align="center">
-
-**Lenguajes**  
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs,java,go,rust,php,kotlin,swift,dart,bash,html,css&theme=dark" alt="TypeScript, JavaScript, Python, C++, C sharp, Java, Go, Rust, PHP, Kotlin, Swift, Dart, Bash, HTML y CSS" />
-
-**Frontend y desarrollo web**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,vite,nodejs,express&theme=dark" alt="React, Next.js, Vue, Angular, Svelte, Tailwind CSS, Vite, Node.js y Express" />
-
-**Backend, datos y nube**  
-<img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,spring,mongodb,supabase,postgres,mysql,redis,firebase,aws,azure,gcp&theme=dark" alt="FastAPI, Django, .NET, Spring, MongoDB, Supabase, PostgreSQL, MySQL, Redis, Firebase, AWS, Azure y Google Cloud" />
-
-**Diseño, colaboración y herramientas**  
-<img src="https://skillicons.dev/icons?i=figma,docker,kubernetes,terraform,git,github,gitlab,linux,vscode&theme=dark" alt="Figma, Docker, Kubernetes, Terraform, Git, GitHub, GitLab, Linux y Visual Studio Code" />
-
-</div>
 ## 📊 Mi actividad en GitHub
 
 <table align="center">
@@ -88,12 +47,24 @@ Me interesa todo el ciclo: entender un problema, diseñar una experiencia útil,
 <div align="center">
   <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaxsdev&theme=tokyonight&animation=draw&name=Jaxsdev" alt="Historial anual de contribuciones de Jaxsdev" />
 </div>
-## 🌱 Ahora mismo
 
-- 💡 Ideando productos que acercan la IA a necesidades de personas, equipos y negocios.
-- 🏗️ Explorando nuevas formas de conectar tecnología y construcción.
-- 🎙️ Entusiasmado por agentes de voz, LLMs y experiencias de aprendizaje guiado para crear proyectos.
-- 🤝 Abierto a colaborar con equipos que quieran construir software con impacto.
+## 🧰 Lenguajes, tecnologías y herramientas
+
+<div align="center">
+
+**Lenguajes**  
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs,java,go,php,swift,dart,bash,html,css&theme=dark" alt="TypeScript, JavaScript, Python, C++, C sharp, Java, Go, PHP, Swift, Dart, Bash, HTML y CSS" />
+
+**Frontend y desarrollo web**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,vite,nodejs,express&theme=dark" alt="React, Next.js, Vue, Angular, Svelte, Tailwind CSS, Vite, Node.js y Express" />
+
+**Backend, datos y nube**  
+<img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,spring,mongodb,supabase,postgres,mysql,redis,firebase,aws,azure,gcp&theme=dark" alt="FastAPI, Django, .NET, Spring, MongoDB, Supabase, PostgreSQL, MySQL, Redis, Firebase, AWS, Azure y Google Cloud" />
+
+**Diseño, colaboración y herramientas**  
+<img src="https://skillicons.dev/icons?i=figma,docker,kubernetes,terraform,git,github,gitlab,linux,vscode&theme=dark" alt="Figma, Docker, Kubernetes, Terraform, Git, GitHub, GitLab, Linux y Visual Studio Code" />
+
+</div>
 
 ## 🤝 Hablemos de ideas
 
