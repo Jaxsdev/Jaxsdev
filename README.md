@@ -53,21 +53,23 @@ Me interesa todo el ciclo: entender un problema, diseñar una experiencia útil,
   </tr>
 </table>
 
-## 🧰 Tecnologías y herramientas
+## 🧰 Lenguajes, tecnologías y herramientas
 
 <div align="center">
 
 **Lenguajes**  
-<img src="https://skillicons.dev/icons?i=ts,python,cpp,cs,js,java,html,css&theme=dark" alt="TypeScript, Python, C++, C sharp, JavaScript, Java, HTML y CSS" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs,java,go,rust,php,kotlin,swift,dart,bash,html,css&theme=dark" alt="TypeScript, JavaScript, Python, C++, C sharp, Java, Go, Rust, PHP, Kotlin, Swift, Dart, Bash, HTML y CSS" />
 
-**Bases de datos, nube y diseño**  
-<img src="https://skillicons.dev/icons?i=mongodb,supabase,aws,figma&theme=dark" alt="MongoDB, Supabase, AWS y Figma" />
+**Frontend y desarrollo web**  
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,vite,nodejs,express&theme=dark" alt="React, Next.js, Vue, Angular, Svelte, Tailwind CSS, Vite, Node.js y Express" />
 
-**Control de versiones y entorno**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub y Visual Studio Code" />
+**Backend, datos y nube**  
+<img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,spring,mongodb,supabase,postgres,mysql,redis,firebase,aws,azure,gcp&theme=dark" alt="FastAPI, Django, .NET, Spring, MongoDB, Supabase, PostgreSQL, MySQL, Redis, Firebase, AWS, Azure y Google Cloud" />
+
+**Diseño, colaboración y herramientas**  
+<img src="https://skillicons.dev/icons?i=figma,docker,kubernetes,terraform,git,github,gitlab,linux,vscode&theme=dark" alt="Figma, Docker, Kubernetes, Terraform, Git, GitHub, GitLab, Linux y Visual Studio Code" />
 
 </div>
-
 ## 📊 Mi actividad en GitHub
 
 <div align="center">
@@ -81,6 +83,12 @@ Me interesa todo el ciclo: entender un problema, diseñar una experiencia útil,
 </div>
 
 <p align="center"><sub>La cuadrícula de contribuciones de GitHub aparece automáticamente en el perfil. Las tarjetas de estadísticas externas pueden tener interrupciones; por eso aquí priorizo enlaces e indicadores simples que suelen cargar con más consistencia.</sub></p>
+
+### 🟩 Mapa de contribuciones
+
+<div align="center">
+  <img width="96%" src="https://ghchart.rshah.org/2563eb/Jaxsdev" alt="Cuadrícula anual de contribuciones de Jaxsdev en GitHub" />
+</div>
 ## 🌱 Ahora mismo
 
 - 💡 Ideando productos que acercan la IA a necesidades de personas, equipos y negocios.
@@ -102,6 +110,7 @@ Me interesa todo el ciclo: entender un problema, diseñar una experiencia útil,
   <br /><br />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:07111f,35:123a68,72:2563eb,100:7c3aed" alt="" />
 </div>
+
 
 
 
