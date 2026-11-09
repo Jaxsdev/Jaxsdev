@@ -73,22 +73,18 @@ Me interesa todo el ciclo: entender un problema, diseñar una experiencia útil,
 ## 📊 Mi actividad en GitHub
 
 <div align="center">
-  <a href="https://github.com/Jaxsdev?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-Ver%20proyectos-2563eb?style=for-the-badge&logo=github" alt="Ver repositorios" /></a>
-  <a href="https://github.com/Jaxsdev?tab=followers"><img src="https://img.shields.io/github/followers/Jaxsdev?style=for-the-badge&label=Seguidores&color=7c3aed&logo=github" alt="Seguidores en GitHub" /></a>
-  <a href="https://github.com/Jaxsdev?tab=stars"><img src="https://img.shields.io/github/stars/Jaxsdev?style=for-the-badge&label=Estrellas&color=0891b2&logo=github" alt="Estrellas en GitHub" /></a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jaxsdev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0b1220&title_color=67e8f9&icon_color=a78bfa" alt="Estadísticas de GitHub" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaxsdev&layout=donut&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0b1220&title_color=67e8f9" alt="Lenguajes más usados" />
 </div>
 
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=Jaxsdev&theme=tokyonight&hide_border=true&background=0B1220&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9" alt="Racha de contribuciones" />
 </div>
 
-<p align="center"><sub>La cuadrícula de contribuciones de GitHub aparece automáticamente en el perfil. Las tarjetas de estadísticas externas pueden tener interrupciones; por eso aquí priorizo enlaces e indicadores simples que suelen cargar con más consistencia.</sub></p>
-
-### 🟩 Mapa de contribuciones
-
 <div align="center">
-  <img width="96%" src="https://ghchart.rshah.org/2563eb/Jaxsdev" alt="Cuadrícula anual de contribuciones de Jaxsdev en GitHub" />
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jaxsdev&bg_color=0b1220&color=c9d1d9&line=67e8f9&point=a78bfa&area=true&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfico de actividad de GitHub" />
 </div>
+
 ## 🌱 Ahora mismo
 
 - 💡 Ideando productos que acercan la IA a necesidades de personas, equipos y negocios.
@@ -110,6 +106,10 @@ Me interesa todo el ciclo: entender un problema, diseñar una experiencia útil,
   <br /><br />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:07111f,35:123a68,72:2563eb,100:7c3aed" alt="" />
 </div>
+
+
+
+
 
 
 
