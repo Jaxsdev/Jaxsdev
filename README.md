@@ -22,11 +22,11 @@ Me interesa todo el ciclo: entender un problema, diseñar una experiencia útil,
 |:--|:--|:--|
 | 🤖 **IA para MYPES** | Soluciones tecnológicas accesibles que ayuden a pequeñas empresas a trabajar, atender y decidir mejor. | IA aplicada · automatización · herramientas útiles |
 | 🏛️ **Civitech · Qhali** | Plataformas cívicas y tecnología con impacto en las comunidades y en la vida cotidiana. | Participación · servicios digitales · impacto social |
-| 🏗️ **Construcción · MyArqIA** | Llevar tecnologías actuales al mundo de la construcción y crear mejores experiencias para sus equipos y proyectos. | Construcción digital · colaboración · innovación sectorial |
+| 🏗️ **Construcción · Aymly** | Llevar tecnologías actuales al mundo de la construcción y crear mejores experiencias para sus equipos y proyectos. | Construcción digital · colaboración · innovación sectorial |
 | 💳 **Fintech** | Colaborar con equipos grandes para diseñar y desarrollar software financiero robusto. | Ingeniería de software · trabajo en equipo · productos financieros |
 | 🎓 **Edtech · Aimly** | Una guía o mentor para quienes quieren empezar a crear proyectos con agentes de voz, LLMs y herramientas colaborativas. | Aprendizaje práctico · proyectos · IA y agentes |
 
-> **Proyectos en desarrollo:** Qhali, Aymly y Aimly representan las ideas y espacios que mencionaste. Completa los enlaces cuando tengas sus repositorios o páginas públicas; así cada tarjeta podrá llevar directamente al proyecto.
+> **Proyectos e iniciativas:** Qhali, Aymly y Aimly reúnen varios de estos intereses. Los enlaces se pueden añadir cuando sus páginas públicas estén disponibles.
 
 ## 🚀 En qué me gusta trabajar
 
@@ -53,44 +53,34 @@ Me interesa todo el ciclo: entender un problema, diseñar una experiencia útil,
   </tr>
 </table>
 
-## 🧰 Tecnologías y temas que me mueven
+## 🧰 Tecnologías y herramientas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/IA%20%26%20LLMs-Exploraci%C3%B3n-7c3aed?style=for-the-badge" alt="IA y LLMs" />
-  <img src="https://img.shields.io/badge/Agentes%20de%20voz-Exploraci%C3%B3n-2563eb?style=for-the-badge" alt="Agentes de voz" />
-  <img src="https://img.shields.io/badge/Plataformas%20digitales-Producto-0891b2?style=for-the-badge" alt="Plataformas digitales" />
-  <img src="https://img.shields.io/badge/Herramientas%20colaborativas-Equipos-059669?style=for-the-badge" alt="Herramientas colaborativas" />
-  <br /><br />
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub y Visual Studio Code" />
-</div>
 
-<p align="center"><sub>Los temas describen mis intereses; los iconos muestran herramientas de trabajo. Esta sección se puede ampliar con tu stack técnico real.</sub></p>
+**Lenguajes**  
+<img src="https://skillicons.dev/icons?i=ts,python,cpp,cs,js,java,html,css&theme=dark" alt="TypeScript, Python, C++, C sharp, JavaScript, Java, HTML y CSS" />
+
+**Bases de datos, nube y diseño**  
+<img src="https://skillicons.dev/icons?i=mongodb,supabase,aws,figma&theme=dark" alt="MongoDB, Supabase, AWS y Figma" />
+
+**Control de versiones y entorno**  
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub y Visual Studio Code" />
+
+</div>
 
 ## 📊 Mi actividad en GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jaxsdev&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight&bg_color=0b1220&title_color=67e8f9&icon_color=a78bfa" alt="Estadísticas de GitHub" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaxsdev&layout=donut&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0b1220&title_color=67e8f9" alt="Lenguajes más usados" />
+  <a href="https://github.com/Jaxsdev?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-Ver%20proyectos-2563eb?style=for-the-badge&logo=github" alt="Ver repositorios" /></a>
+  <a href="https://github.com/Jaxsdev?tab=followers"><img src="https://img.shields.io/github/followers/Jaxsdev?style=for-the-badge&label=Seguidores&color=7c3aed&logo=github" alt="Seguidores en GitHub" /></a>
+  <a href="https://github.com/Jaxsdev?tab=stars"><img src="https://img.shields.io/github/stars/Jaxsdev?style=for-the-badge&label=Estrellas&color=0891b2&logo=github" alt="Estrellas en GitHub" /></a>
 </div>
 
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=Jaxsdev&theme=tokyonight&hide_border=true&background=0B1220&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9" alt="Racha de contribuciones" />
 </div>
 
-<div align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jaxsdev&bg_color=0b1220&color=c9d1d9&line=67e8f9&point=a78bfa&area=true&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfico dinámico de contribuciones" />
-</div>
-
-### 🗓️ Resumen de contribuciones
-
-<div align="center">
-  <img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jaxsdev&theme=tokyonight" alt="Resumen visual del perfil y contribuciones" />
-</div>
-
-<div align="center">
-  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=Jaxsdev&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Reconocimientos de GitHub" />
-</div>
-
+<p align="center"><sub>La cuadrícula de contribuciones de GitHub aparece automáticamente en el perfil. Las tarjetas de estadísticas externas pueden tener interrupciones; por eso aquí priorizo enlaces e indicadores simples que suelen cargar con más consistencia.</sub></p>
 ## 🌱 Ahora mismo
 
 - 💡 Ideando productos que acercan la IA a necesidades de personas, equipos y negocios.
@@ -112,3 +102,6 @@ Me interesa todo el ciclo: entender un problema, diseñar una experiencia útil,
   <br /><br />
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:07111f,35:123a68,72:2563eb,100:7c3aed" alt="" />
 </div>
+
+
+
