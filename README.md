@@ -26,7 +26,6 @@ Me interesa todo el ciclo: entender un problema, diseñar una experiencia útil,
 | 💳 **Fintech** | Colaborar con equipos grandes para diseñar y desarrollar software financiero robusto. | Ingeniería de software · trabajo en equipo · productos financieros |
 | 🎓 **Edtech · Aimly** | Una guía o mentor para quienes quieren empezar a crear proyectos con agentes de voz, LLMs y herramientas colaborativas. | Aprendizaje práctico · proyectos · IA y agentes |
 
-> **Proyectos e iniciativas:** Qhali, Aymly y Aimly reúnen varios de estos intereses. Los enlaces se pueden añadir cuando sus páginas públicas estén disponibles.
 
 
 ## 📊 Mi actividad en GitHub
