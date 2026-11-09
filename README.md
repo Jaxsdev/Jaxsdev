@@ -52,16 +52,16 @@ Me interesa todo el ciclo: entender un problema, diseñar una experiencia útil,
 <div align="center">
 
 **Lenguajes**  
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs,java,go,php,swift,dart,bash,html,css&theme=dark" alt="TypeScript, JavaScript, Python, C++, C sharp, Java, Go, PHP, Swift, Dart, Bash, HTML y CSS" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs,java,go,php,html,css&theme=dark" alt="TypeScript, JavaScript, Python, C++, C sharp, Java, Go, PHP, HTML y CSS" />
 
 **Frontend y desarrollo web**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,vite,nodejs,express&theme=dark" alt="React, Next.js, Vue, Angular, Svelte, Tailwind CSS, Vite, Node.js y Express" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,vite,nodejs,express&theme=dark" alt="React, Next.js, Vue, Angular, Tailwind CSS, Vite, Node.js y Express" />
 
 **Backend, datos y nube**  
-<img src="https://skillicons.dev/icons?i=fastapi,django,dotnet,spring,mongodb,supabase,postgres,mysql,redis,firebase,aws,azure,gcp&theme=dark" alt="FastAPI, Django, .NET, Spring, MongoDB, Supabase, PostgreSQL, MySQL, Redis, Firebase, AWS, Azure y Google Cloud" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,spring,mongodb,supabase,postgres,mysql,firebase,aws,azure,gcp&theme=dark" alt="FastAPI, Django, Spring, MongoDB, Supabase, PostgreSQL, MySQL, Firebase, AWS, Azure y Google Cloud" />
 
 **Diseño, colaboración y herramientas**  
-<img src="https://skillicons.dev/icons?i=figma,docker,kubernetes,terraform,git,github,gitlab,linux,vscode&theme=dark" alt="Figma, Docker, Kubernetes, Terraform, Git, GitHub, GitLab, Linux y Visual Studio Code" />
+<img src="https://skillicons.dev/icons?i=figma,docker,kubernetes,git,github,gitlab,linux,vscode&theme=dark" alt="Figma, Docker, Kubernetes, Git, GitHub, GitLab, Linux y Visual Studio Code" />
 
 </div>
 
