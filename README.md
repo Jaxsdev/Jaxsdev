@@ -55,7 +55,7 @@ Me interesa todo el ciclo: entender un problema, diseñar una experiencia útil,
 <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,cs,java,php,html,css&theme=dark" alt="TypeScript, JavaScript, Python, C++, C sharp, Java, PHP, HTML y CSS" />
 
 **Frontend y desarrollo web**  
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,vite,nodejs&theme=dark" alt="React, Next.js, Vue, Angular, Tailwind CSS, Vite, Node.js " />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,vite,nodejs&theme=dark" alt="React, Next.js, Vue, Tailwind CSS, Vite, Node.js " />
 
 **Backend, datos y nube**  
 <img src="https://skillicons.dev/icons?i=fastapi,django,spring,mongodb,supabase,postgres,mysql,firebase,aws,azure,gcp&theme=dark" alt="FastAPI, Django, Spring, MongoDB, Supabase, PostgreSQL, MySQL, Firebase, AWS, Azure y Google Cloud" />
